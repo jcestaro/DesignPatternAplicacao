@@ -8,10 +8,6 @@ public class TV implements Estado {
 		this.estadoDaTV = estadoDaTV;
 	}
 
-	public Estado getEstadoDaTV() {
-		return estadoDaTV;
-	}
-
 	@Override
 	public void exibeEstado() {
 		this.estadoDaTV.exibeEstado();
