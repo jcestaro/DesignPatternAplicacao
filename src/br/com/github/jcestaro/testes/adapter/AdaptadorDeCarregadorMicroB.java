@@ -1,4 +1,4 @@
-package br.com.github.jcestaro.testes.Adapter;
+package br.com.github.jcestaro.testes.adapter;
 
 public class AdaptadorDeCarregadorMicroB extends CelularEntradaMicroB {
     private CaboTipoC caboC;
