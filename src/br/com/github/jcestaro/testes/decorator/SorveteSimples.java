@@ -1,4 +1,4 @@
-package br.com.github.jcestaro.testes.Decorator;
+package br.com.github.jcestaro.testes.decorator;
 
 public class SorveteSimples implements Sorvete {
 
