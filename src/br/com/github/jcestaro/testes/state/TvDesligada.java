@@ -1,4 +1,4 @@
-package br.com.github.jcestaro.testes.State;
+package br.com.github.jcestaro.testes.state;
 
 public class TvDesligada implements Estado {
 

@@ -1,4 +1,4 @@
-package br.com.github.jcestaro.testes.Decorator;
+package br.com.github.jcestaro.testes.decorator;
 
 import java.util.ArrayList;
 import java.util.List;

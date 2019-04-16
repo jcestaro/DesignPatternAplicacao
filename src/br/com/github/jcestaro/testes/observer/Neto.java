@@ -1,4 +1,4 @@
-package br.com.github.jcestaro.testes.Observer;
+package br.com.github.jcestaro.testes.observer;
 
 import java.util.Observable;
 import java.util.Observer;

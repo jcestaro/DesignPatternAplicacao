@@ -1,4 +1,4 @@
-package br.com.github.jcestaro.testes.Builder;
+package br.com.github.jcestaro.testes.builder;
 
 public class Builder {
 
